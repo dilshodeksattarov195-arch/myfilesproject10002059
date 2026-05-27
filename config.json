@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuave",
+        "uuid": 13655288,
+        "checksum": "lucj4u"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
